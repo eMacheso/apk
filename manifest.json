@@ -1,0 +1,17 @@
+{
+  "id": "https://ruttc.gt.tc/",
+  "name": "RUTTC",
+  "short_name": "RUTTC",
+  "start_url": "https://ruttc.gt.tc/",
+  "scope": "https://ruttc.gt.tc/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd",
+  "icons": [
+    {
+      "src": "https://ruttc.gt.tc/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
